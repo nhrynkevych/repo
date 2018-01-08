@@ -1,1 +1,4 @@
-new
+delete
+remove
+create
+update
